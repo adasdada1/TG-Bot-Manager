@@ -1,0 +1,1 @@
+{"name":"tg-bot-forms","version":"1.0.0","description":"","main":"index.js","scripts":{"start":"nodemon --ignore questions.json --ignore requests.json --ignore users.json index.js"},"keywords":[],"author":"","license":"ISC","dependencies":{"@grammyjs/conversations":"^1.2.0","@grammyjs/files":"github:grammyjs/files","dotenv":"^16.4.5","grammy":"^1.23.1","nodemon":"^3.1.2"}}
